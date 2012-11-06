@@ -6,9 +6,9 @@ Backup Stuff Daily
 This is a basic script I use for the nightly backup of my personal codebase.
 
 There are a couple simple settings to change before using bastuda:
-===
 
 config.py file:
+===
 
 Normally, there is nothing here to edit except the "items" section.
 
